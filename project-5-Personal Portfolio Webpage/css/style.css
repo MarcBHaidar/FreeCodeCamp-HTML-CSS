@@ -23,11 +23,14 @@ nav a{
   color: black;
   text-decoration: none;
   margin-left: 30px;
+  padding: 25px 5px;
 }
+
 nav a:hover{
-  text-decoration: underline;
-  text-underline-offset: 5px;
+  background-color: #303842;
+  color: #be3143;
 }
+
 header{
   height: 100vh;
   background-image: linear-gradient(#be3143, #303842);
