@@ -13,7 +13,7 @@ This is a solution to the Surver Form. FreeCodeCamp challenges help you improve 
 
 ### Screenshot
 
-![]()
+![](https://github.com/MarcBHaidar/FreeCodeCamp-HTML-CSS/blob/main/project-2-Survey%20form/images/desktop-screenshot.jpg)
 
 
 
