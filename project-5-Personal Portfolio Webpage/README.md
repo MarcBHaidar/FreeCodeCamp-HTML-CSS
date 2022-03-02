@@ -13,7 +13,9 @@ This is a solution to the Personal Portfolio Webpage. FreeCodeCamp challenges he
 
 ### Screenshot
 
-![]()
+![](https://github.com/MarcBHaidar/FreeCodeCamp-HTML-CSS/blob/main/project-5-Personal%20Portfolio%20Webpage/images/desktop-screenshot.jpg)
+![](https://github.com/MarcBHaidar/FreeCodeCamp-HTML-CSS/blob/main/project-5-Personal%20Portfolio%20Webpage/images/mobile-screenshot.jpg)
+
 
 
 
