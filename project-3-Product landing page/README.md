@@ -14,6 +14,8 @@ This is a solution to the Product Landing Page. FreeCodeCamp challenges help you
 ### Screenshot
 
 ![](https://github.com/MarcBHaidar/FreeCodeCamp-HTML-CSS/blob/main/project-3-Product%20landing%20page/images/desktop-screenshot.jpg)
+![](https://github.com/MarcBHaidar/FreeCodeCamp-HTML-CSS/blob/main/project-3-Product%20landing%20page/images/mobile-screenshot.jpg)
+
 
 
 
