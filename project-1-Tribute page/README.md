@@ -13,7 +13,9 @@ This is a solution to the Tribute page. FreeCodeCamp challenges help you improve
 
 ### Screenshot
 
-![]()
+![](https://github.com/MarcBHaidar/FreeCodeCamp-HTML-CSS/blob/main/project-1-Tribute%20page/images/desktop-screenshot.jpg)
+![](https://github.com/MarcBHaidar/FreeCodeCamp-HTML-CSS/blob/main/project-1-Tribute%20page/images/mobile-screenshot.jpg)
+
 
 
 
