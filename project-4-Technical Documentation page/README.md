@@ -13,7 +13,9 @@ This is a solution to the Technical Documentation page. FreeCodeCamp challenges 
 
 ### Screenshot
 
-![]()
+![](https://github.com/MarcBHaidar/FreeCodeCamp-HTML-CSS/blob/main/project-4-Technical%20Documentation%20page/images/desktop-screenshot.jpg)
+![](https://github.com/MarcBHaidar/FreeCodeCamp-HTML-CSS/blob/main/project-4-Technical%20Documentation%20page/images/mobile-screenshot.jpg)
+
 
 
 
